@@ -1,4 +1,4 @@
-# 👋 Hola, soy CarlosJ67
+# 👋 Hola, soy Carlos Jesus Carballo Cruz :)
 
 ## 👀 Intereses
 - Desarrollo web y móvil 📱💻
