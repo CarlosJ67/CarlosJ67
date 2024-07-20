@@ -6,7 +6,7 @@
 - Diseño de interfaces y experiencia de usuario 🎨🖱️
 
 ## 🌱 Actualmente aprendiendo
-- React y React Native ⚛️
+- React Native ⚛️
 - Node.js y Express.js 🟢🚀
 - Python para análisis de datos 🐍📊
 - Tecnologías de bases de datos como MongoDB y MySQL 🗄️💾
