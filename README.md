@@ -17,16 +17,12 @@
 - Desarrollo de aplicaciones móviles que conecten con dispositivos IoT 📲🔌
 
 ## 📫 Cómo contactarme
-- Email: [carlos.j67@example.com](mailto:carlos.j67@example.com) 📧
-- LinkedIn: [CarlosJ67](https://www.linkedin.com/in/carlosj67) 🔗
+- Email: [carlos.j67@example.com](carlosjesus6384@gmail.com) 📧
+- Facebook: [CarlosJ67](https://www.facebook.com/carlosjesus.carballocruz.1) 🔗
 - Twitter: [@CarlosJ67](https://twitter.com/CarlosJ67) 🐦
 
 ## 😄 Pronombres
-- Él/Him
+- Carballo 
 
-## ⚡ Dato curioso
-- ¡Me encanta resolver puzzles y desafíos lógicos en mi tiempo libre! 🧩🕵️‍♂️
-
----
 
 CarlosJ67 es un repositorio ✨ especial ✨ porque su `README.md` aparece en tu perfil de GitHub. Puedes hacer clic en el enlace de vista previa para ver tus cambios.
