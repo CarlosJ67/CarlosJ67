@@ -17,7 +17,6 @@
 
 ## 📫 Cómo contactarme
 - Email: [carlos.j67@example.com](carlosjesus6384@gmail.com) 📧
-- 
 - Facebook: [CarlosJ67](https://www.facebook.com/carlosjesus.carballocruz.1) 🔗
 - Twitter: [@CarlosJ67](https://twitter.com/CarlosJ67) 🐦
 
