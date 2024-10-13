@@ -3,7 +3,6 @@
 ## 👀 Intereses
 - Desarrollo web y móvil 📱💻
 - IoT y automatización 🌐🔧
-- Diseño de interfaces y experiencia de usuario 🎨🖱️
 
 ## 🌱 Actualmente aprendiendo
 - React Native ⚛️
