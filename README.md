@@ -1,4 +1,5 @@
 # 👋 Hola, soy Carlos Jesus Carballo Cruz :)
+- Soy actualmente estudiante de la carrera ING. Desarrollado y Gestion de Software, me ha interesado mucho la parte de desarrollo en Backend creando proyectos como app moviles y webs.
 
 ## 👀 Intereses
 - Desarrollo web y móvil 📱💻
