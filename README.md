@@ -32,4 +32,3 @@
 
 ![Snake animation](https://github.com/CarlosJ67/CarlosJ67/blob/output/github-contribution-grid-snake.svg)
 
-> **Nota:** Para activar la animación snake de contribuciones, puedes utilizar [Platane/snk](https://github.com/Platane/snk) que genera automáticamente el archivo SVG con la animación de la serpiente comiendo tus contribuciones de GitHub.
