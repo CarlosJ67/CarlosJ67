@@ -30,5 +30,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CarlosJ67&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Snake animation](https://github.com/CarlosJ67/CarlosJ67/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CarlosJ67/blob/output/github-contribution-grid-snake.svg)
 
