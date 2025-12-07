@@ -26,8 +26,8 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarlosJ67&show_icons=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJ67&layout=compact)
-![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=CarlosJ67)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarlosJ67&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJ67&layout=compact&theme=radical)
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=CarlosJ67&theme=radical)
 
-![Animación de Snake](https://raw.githubusercontent.com/CarlosJ67/CarlosJ67/output/github-contribution-grid-snake.svg)
+![Animación de Snake](https://github.com/CarlosJ67/CarlosJ67/blob/output/github-contribution-grid-snake.svg)
