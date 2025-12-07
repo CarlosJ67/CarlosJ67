@@ -16,19 +16,18 @@
 - Desarrollo de aplicaciones móviles que conecten con dispositivos IoT 📲🔌
 
 ## 📫 Cómo contactarme
-- Email: [carlosjesus6384@gmail.com](carlosjesus6384@gmail.com) 📧
+- Email: [carlosjesus6384@gmail.com](mailto:carlosjesus6384@gmail.com) 📧
 - Facebook: [Carlos Jesus](https://www.facebook.com/carlosjesus.carballocruz.1) 🌐
+
 ## 😄 Pronombres
-- Carballo 
+- Carballo
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![CarlosJ67's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosJ67&show_icons=true&theme=radical)
-![CarlosJ67's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJ67&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarlosJ67&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJ67&layout=compact&theme=radical)
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=CarlosJ67&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CarlosJ67&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Snake animation](https://github.com/CarlosJ67/CarlosJ67/blob/output/github-contribution-grid-snake.svg)
-
+![Animación de Snake](https://github.com/CarlosJ67/CarlosJ67/blob/output/github-contribution-grid-snake.svg)
