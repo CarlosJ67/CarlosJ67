@@ -49,10 +49,4 @@
 
 ---
 
-##  Contribuciones
-
-![Snake animation](https://raw.githubusercontent.com/CarlosJ67/CarlosJ67/output/github-contribution-grid-snake.svg)
-
----
-
 ⭐ *Siempre abierto a aprender, colaborar y crear proyectos que generen impacto real.*
