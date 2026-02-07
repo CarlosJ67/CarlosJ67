@@ -33,20 +33,7 @@
 - 🌐 Facebook: [Carlos Jesus](https://www.facebook.com/carlosjesus.carballocruz.1)
 
 ---
-
 ## 😄 Pronombres
 - Carballo
-
----
-
-## Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosJ67&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosJ67&layout=compact&theme=radical&cache_seconds=1800)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=CarlosJ67&theme=radical&no-frame=true&margin-w=10)
-
----
 
 ⭐ *Siempre abierto a aprender, colaborar y crear proyectos que generen impacto real.*
