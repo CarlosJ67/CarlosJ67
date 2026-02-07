@@ -4,14 +4,12 @@
 💻 Apasionado por el **desarrollo Backend**, **apps móviles** y **aplicaciones web**  
 🚀 Enfocado en crear soluciones escalables y conectadas con dispositivos **IoT**
 
----
 
 ## 👀 Intereses
 - Desarrollo web y móvil 📱💻
 - Backend y APIs REST ⚙️🔗
 - IoT y automatización 🌐🔧
 
----
 
 ## 🌱 Actualmente aprendiendo
 - React Native ⚛️
@@ -19,20 +17,20 @@
 - Python para análisis de datos 🐍📊
 - Bases de datos: MongoDB y MySQL 🗄️💾
 
----
+
 
 ##  Colaborando en
 - Proyectos de código abierto 👐🌍
 - Desarrollo de aplicaciones móviles conectadas a dispositivos IoT 📲🔌
 - APIs Backend para aplicaciones modernas ⚙️🔥
 
----
+
 
 ## 📫 Cómo contactarme
 - 📧 Email: [carlosjesus6384@gmail.com](mailto:carlosjesus6384@gmail.com)
 - 🌐 Facebook: [Carlos Jesus](https://www.facebook.com/carlosjesus.carballocruz.1)
 
----
+
 ## 😄 Pronombres
 - Carballo
 
